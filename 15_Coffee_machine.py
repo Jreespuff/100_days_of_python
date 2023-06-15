@@ -51,7 +51,8 @@ def print_report():
 
 
 def check_resources(order_ingredients):
-    pass
+    for item in order_ingredients:
+        pass
 
 
 while coffee_on:
